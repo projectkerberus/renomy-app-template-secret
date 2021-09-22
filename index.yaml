@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  renomy-app-template-secret:
+  - apiVersion: v2
+    appVersion: 0.1.2
+    created: "2021-09-22T14:59:31.103300194Z"
+    description: renomy-app-template-secret
+    digest: 31ab3ac7a346631ee5a8ef45216941b01727660f884a356b5d8d82e736318be8
+    icon: https://github.com/projectkerberus/kerberus-dashboard/blob/main/docs/media/square_black_logo.png
+    maintainers:
+    - email: mauro.sala@kiratech.it
+      name: Mauro Sala
+      url: https://www.kiratech.it
+    name: renomy-app-template-secret
+    type: application
+    urls:
+    - https://github.com/projectkerberus/renomy-app-template-secret/releases/download/renomy-app-template-secret-0.1.2/renomy-app-template-secret-0.1.2.tgz
+    version: 0.1.2
+generated: "2021-09-22T14:59:31.103305194Z"
